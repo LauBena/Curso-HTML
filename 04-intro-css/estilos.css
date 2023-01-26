@@ -16,3 +16,24 @@ p {
 #segunda-noticia {
     color: blueviolet;
 }
+
+.encabezado {
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+/* Lo usamos cuando queremos aplicarle estilos a todos los elementos de nuestra pagina */
+/*
+* {
+    color: aquamarine;
+}*/
+
+.warning {
+    color: red;
+}
+
+.autor, .fecha, .ubicacion, h1 {
+    text-decoration: underline;
+
+}
+
