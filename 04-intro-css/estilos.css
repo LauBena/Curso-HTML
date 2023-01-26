@@ -7,3 +7,12 @@ p {
     color:chocolate;
     font-size: 16pt;
 }
+
+#primera-noticia {
+    color: brown;
+    font-size: 12pt;
+}
+
+#segunda-noticia {
+    color: blueviolet;
+}
