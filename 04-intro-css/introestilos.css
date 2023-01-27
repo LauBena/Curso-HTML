@@ -1,0 +1,19 @@
+.colores {
+    color: cornflowerblue;
+}
+
+.color-hexadecimal {
+    color: #A96DA3;
+}
+
+.color-rgb {
+    color: rgb(143, 17, 169);
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0,85);
+}
+
+p {
+    font-size: 15pt;
+}
