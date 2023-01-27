@@ -28,3 +28,26 @@ p {
     background-image: url(/04-intro-css/imagen-fondo/images.jpg);
     background-position: left bottom;
 }
+
+/* Tamaño */
+.ancho {
+    background-color: #A96DA3;
+    width: 160px;
+}
+
+.alto {
+    background-color:#80dc5b;
+    height: 500px;
+    width: 800px;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color:blueviolet;
+    border-width: 1px;
+    /*border-top: none;*/
+    padding: 10px 20px;
+    /*padding: 10px 20px 30px 40px;*/
+    margin: 10px 20px;
+    /*margin: 10px 20px 30px 40px;*/
+}
