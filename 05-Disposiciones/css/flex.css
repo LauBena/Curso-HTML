@@ -1,12 +1,30 @@
 .flexx {
-    background-color: darkgoldenrod;
+    background-color: yellow;
     height: 300px;
-    /* display: flex; */
+    display: flex;
+    justify-content: space-around;
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    flex-direction: column;
 }
 
 .contenido-1 {
     background-color: white;
-    height: 200px;
+    /* height: 200px; */
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.contenido-2 {
+    background-color: white;
+    /* height: 200px; */
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.contenido-3 {
+    background-color: pink;
+    /* height: 200px; */
     width: 100px;
     border: 1px solid blue;
 }
